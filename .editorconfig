@@ -8,6 +8,6 @@ trim_trailing_whitespace = true
 insert_final_line = true
 charset = utf-8
 
-[*.{json,md}]
+[*.{json,yml,md}]
 indent_style = space
 indent_size = 2
