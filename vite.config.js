@@ -10,5 +10,4 @@ export default defineConfig({
 		emptyOutDir: true,
 	},
 	publicDir: '../public',
-	base: '/threejs-landscape/',
 })
